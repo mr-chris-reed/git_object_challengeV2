@@ -15,5 +15,6 @@
 class Main {
   public static void main(String[] args) {
    // Place your code here //
+   Pet pet1 = new Pet();
   }
 }
